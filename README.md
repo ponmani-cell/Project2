@@ -7,6 +7,8 @@ This repository contains a Power BI dashboard for the analysis of India's import
 
 ## Documentation
 
+[summary](https://drive.google.com/file/d/1zOSmW-AzFkrpGwWL4h5yL4YAfTffpFr6/view?usp=drive_link)
+
 [Cleaned data](https://docs.google.com/spreadsheets/d/1ndOq7CkYkeeECcU2VNAW08G2YYOO23XOQVW9PKHcvOU/edit?usp=sharing)
 
 [Raw data](https://docs.google.com/spreadsheets/d/1PXphUH-2l38_Un58XCaZpDayUuL8tg7PypugLleSe7k/edit?usp=sharing)
